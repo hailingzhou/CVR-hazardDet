@@ -1,0 +1,1 @@
+python influence.py --stacking 2 --batch_size 256 --load_from D:\学习\数据集标注\demo\hazard_detection\models\TreeSparsePost2Full\model_best_0
