@@ -36,4 +36,3 @@ If you want to know how the programs and training data are generated, please fol
    ```
     streamlit run app_simple.py
   ```
-
