@@ -33,6 +33,6 @@ If you want to know how the programs and training data are generated, please fol
     python inference.py --stacking 2 --batch_size 256 --load_from [model_Path] --data [roi_feats_after_processing_path]
   ```
  - Run the demo:
-  ```
+   ```
     streamlit run app_simple.py
   ```
