@@ -5,6 +5,8 @@ Preprocessed datasets:Rule124_triplet_50_set1_answer.json & Rule124_triplet_50_s
 
 image roi_feats and bbox_feats: demo/datasets/hazard_detection 
 
+The dataset can be downloaded from the link: https://pan.baidu.com/s/19vWUZY_vlavJXbiioKHPBw (The code: xanr )
+
 ## Visual feature generation[Optional]:
 Please following the instruction of https://github.com/MILVLG/bottom-up-attention.pytorch to install the environment and extract features.
 
