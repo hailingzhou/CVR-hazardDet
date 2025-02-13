@@ -5,7 +5,7 @@ Preprocessed datasets:Rule124_triplet_50_set1_answer.json & Rule124_triplet_50_s
 
 image roi_feats and bbox_feats: demo/datasets/hazard_detection 
 
-##Visual feature generation[Optional]:
+## Visual feature generation[Optional]:
 Please following the instruction of https://github.com/MILVLG/bottom-up-attention.pytorch to install the environment and extract features.
 
 ## Data Preprocessing [Optional]:
